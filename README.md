@@ -1,7 +1,7 @@
 # smart-mirror-deu
 
-git clone https://github.com/urban6/smart-mirror-deu
+1. git clone https://github.com/urban6/smart-mirror-deu
 
-cd smart-mirror-deu
+2. cd smart-mirror-deu/Smart-Mirror-deu
 
-python smartmiirror.py
+3. python smartmiirror.py
